@@ -1,0 +1,9 @@
+// src/components/Header.js
+import React from 'react';
+import './Header.css';
+
+function Header() {
+  return <h1>ForemostPayOnline</h1>;
+}
+
+export default Header;
